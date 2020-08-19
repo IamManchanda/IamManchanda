@@ -6,7 +6,7 @@ Harry is a **Full-stack Web Development Engineer** and can build you Full-stack 
 
 Harry is a Postgraduate in _Masters of Computer Applications_. Harry is 27 years old.
 
-Harry has _5 years_ of Full Time Professional experience in _Frontend Development_ and has now taken a _Career Break_ to become a _Full-stack Web Development Engineer_ and is now looking to grow in his Career by working on projects fully Full-stack.
+Harry has _5 years_ of Professional experience in _Frontend Development_ and has now taken a _Career Break_ to become a _Full-stack Web Development Engineer_ and is now looking to grow in his Career by working on projects fully Full-stack.
 
 Harry's Favourite Programming Language is _Javascript/TypeScript_ and his current full stack revolves around that. That being said, he is also Interested in _Python_ for Backend API Development.
 
