@@ -42,7 +42,7 @@ Full-stack (JavaScript/TypeScript):
 - Templating - JSX / TSX / Vue / Pug
 - Rest API
 - GraphQL API
-  <img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-3.png?alt=media&token=242a3410-ddc3-41eb-8db9-87e35e80764a" height="250" width="250">
+  <img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-4.png?alt=media&token=ad004b3e-979c-4557-b321-0df81c426fa7" height="250" width="250">
 - CSS Flexbox (WIP, revision)
 - CSS Grid (WIP, revision)
 - CSS-in-JS - Styled Components, Emotion
@@ -60,7 +60,7 @@ Full-stack (JavaScript/TypeScript):
 - Vue Router
 - Vue Composition API
 - Vuelidate.js
-  <img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-4.png?alt=media&token=ad004b3e-979c-4557-b321-0df81c426fa7" height="250" width="250">
+  <img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-3.png?alt=media&token=242a3410-ddc3-41eb-8db9-87e35e80764a" height="250" width="250">
 - Vuetify.js
 - Buefy.js
 - Redux (WIP, revision)
