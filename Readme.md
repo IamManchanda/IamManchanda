@@ -2,6 +2,8 @@
 
 <img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code.png?alt=media&token=88024a0c-d1c0-4ab6-aabf-894a76b51083" height="300" width="300">
 
+### It's very nice to meet you 🙌
+
 Harry is a **Full-stack Web Development Engineer** and can build you Full-stack JavaScript/TypeScript Web Apps in "Vue.js or React.js ecosystem for Frontend" and "Node.js ecosystem for Backend" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB)" to choose from for Data Persistence.
 
 Harry is a Postgraduate in _Masters of Computer Applications_. Harry is 27 years old.
