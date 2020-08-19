@@ -1,6 +1,6 @@
 <h1 align="center">🤘 Hey, This is Harry!</h1>
 
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code.png?alt=media&token=88024a0c-d1c0-4ab6-aabf-894a76b51083" height="400" width="400" style="max-width: 100%">
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code.png?alt=media&token=88024a0c-d1c0-4ab6-aabf-894a76b51083" height="400" width="400" style="box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);border: 0.0625rem solid #cacaca;">
 
 <p>&nbsp;</p>
 
