@@ -14,4 +14,4 @@ Harry's next Goal is to become _DevOPS Engineer_ & _Cloud Solutions Architect_ (
 
 Harry is a _Developer/Engineer_ (and not a _Designer_) but is also Interested in Design stuff & dreams to become a _Design Technologist_ in the future and is interested in exploring more and more on _UI/UX Design & Motion Design_ in upcoming years. He also plans to explore learning _Native/Hybrid Mobile Apps & Desktop Apps Development_.
 
-You can learn about Harry's Skills, Education, Completed Courses, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
+You can learn about Harry's Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
