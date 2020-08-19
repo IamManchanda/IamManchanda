@@ -1,4 +1,4 @@
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code.png?alt=media&token=88024a0c-d1c0-4ab6-aabf-894a76b51083" height="400" width="400">
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code.png?alt=media&token=88024a0c-d1c0-4ab6-aabf-894a76b51083" height="300" width="300">
 
 ### 🤘 Hey, This is Harry!
 
