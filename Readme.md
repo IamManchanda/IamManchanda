@@ -1,6 +1,6 @@
-# 🤘 Hello There
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code.png?alt=media&token=88024a0c-d1c0-4ab6-aabf-894a76b51083" height="300" width="300">
 
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code.png?alt=media&token=88024a0c-d1c0-4ab6-aabf-894a76b51083" height="250" width="250">
+### 🤘 Hey, I am Harry!
 
 This is Harman Singh Manchanda (Harry)'s Github Profile.
 
