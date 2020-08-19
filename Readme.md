@@ -8,7 +8,7 @@ Harry is a Postgraduate in _Masters of Computer Applications_. Harry is 27 years
 
 Harry has _5 years_ of Professional experience in _Frontend Development_ and has now taken a _Career Break_ to become a _Full-stack Web Development Engineer_ and is now looking to grow in his Career by working on projects fully Full-stack.
 
-Harry's Favourite Programming Language is _Javascript/TypeScript_ and his current full stack revolves around that. That being said, he is also Interested in _Python_ for Backend API Development.
+Harry's Favourite Programming Language is _Javascript/TypeScript_ and his current full stack revolves around that. That being said, he is also Interested in skilling up with Python for Backend API Development in the near future.
 
 Harry's next Goal is to become _DevOPS Engineer_ & _Cloud Solutions Architect_ (AWS/Google/Azure).
 
