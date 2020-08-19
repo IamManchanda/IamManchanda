@@ -4,7 +4,7 @@ This is Harman Singh Manchanda (Harry)'s Github Profile.
 
 Harry is a "Full-stack Web Development Engineer" and is 27 years old. Harry is a Postgraduate in "Masters of Computer Applications".
 
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code.png?alt=media&token=88024a0c-d1c0-4ab6-aabf-894a76b51083" height="300" width="300">
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code.png?alt=media&token=88024a0c-d1c0-4ab6-aabf-894a76b51083" height="250" width="250">
 
 Till 2019, Harry has worked as a "Frontend Web Developer" but then in 2020, he took a "Career Break" to become a "Full-stack Web Development Engineer".
 
@@ -19,9 +19,9 @@ Harry is a Developer/Engineer (and not a Designer) but is also Interested in Des
 
 Harry's Current Skills:
 
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-2.png?alt=media&token=27a892ab-c56e-4a76-bd11-0e9bf725b929" height="300" width="300">
-
 SQL & NoSQL Databases:
+
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-2.png?alt=media&token=27a892ab-c56e-4a76-bd11-0e9bf725b929" height="250" width="250">
 
 - PostgreSQL
 - MySQL
@@ -40,11 +40,9 @@ Full-stack (JavaScript/TypeScript):
 - Vue.js (WIP, latest v3)
 - React.js
 - Templating - JSX / TSX / Vue / Pug
-
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-3.png?alt=media&token=242a3410-ddc3-41eb-8db9-87e35e80764a" height="300" width="300">
-
 - Rest API
 - GraphQL API
+  <img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-3.png?alt=media&token=242a3410-ddc3-41eb-8db9-87e35e80764a" height="250" width="250">
 - CSS Flexbox (WIP, revision)
 - CSS Grid (WIP, revision)
 - CSS-in-JS - Styled Components, Emotion
@@ -62,6 +60,7 @@ Full-stack (JavaScript/TypeScript):
 - Vue Router
 - Vue Composition API
 - Vuelidate.js
+  <img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-4.png?alt=media&token=ad004b3e-979c-4557-b321-0df81c426fa7" height="250" width="250">
 - Vuetify.js
 - Buefy.js
 - Redux (WIP, revision)
@@ -79,6 +78,8 @@ Full-stack (JavaScript/TypeScript):
 - Gatsby (WIP)
 - Axios
 - JavaScript Fetch
+
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-5.png?alt=media&token=874b7f50-b756-4744-b680-52140afc81aa" height="250" width="250">
 
 Cloud DevOPS & Tooling:
 
