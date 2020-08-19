@@ -16,4 +16,4 @@ Harry is a _Developer/Engineer_ (and not a _Designer_) but is also Interested in
 
 - You can learn more about harry's skills, professional recommendations etc [from here](https://www.linkedin.com/in/harrymanchanda).
 
-- If you are here to explore my code, please click on the repositories tab for exploring all of my repositories or click on the below pinned repositories for exploring my pinned repositories.
+- If you are here to explore my code, please click on the repositories tab for exploring all of my repositories or click on the below pinned repositories 👇 for exploring my pinned repositories.
