@@ -1,5 +1,13 @@
 # 🤘 Hello There
 
+<style>
+  @media only screen and (max-width: 767px) {
+    img {
+      display: none;
+    }
+  }
+</style>
+
 This is Harman Singh Manchanda (Harry)'s Github Profile.
 
 Harry is a "Full-stack Web Development Engineer" and is 27 years old. Harry is a Postgraduate in "Masters of Computer Applications".
