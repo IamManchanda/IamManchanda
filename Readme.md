@@ -2,7 +2,9 @@
 
 ### 🤘 Hey, This is Harry!
 
-Harry is a **Full-stack Web Development Engineer**. He can build you Full-stack Web Apps in Vue.js or React.js ecosystem's for Frontend and Node.js ecosystem for Backend along with Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB) to choose from for Data Persistence. Harry is a Postgraduate in _Masters of Computer Applications_. Harry is 27 years old.
+Harry is a **Full-stack Web Development Engineer**. He can build you Full-stack Web Apps in Vue.js or React.js ecosystem's for Frontend and Node.js ecosystem for Backend along with Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB) to choose from for Data Persistence.
+
+Harry is a Postgraduate in _Masters of Computer Applications_. Harry is 27 years old.
 
 Harry has _5 years_ of Full Time Professional experience in _Frontend Development_ and has now taken a _Career Break_ to become a _Full-stack Web Development Engineer_ and is now looking to grow in his Career by working on projects fully Full-stack.
 
