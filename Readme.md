@@ -40,6 +40,9 @@ Full-stack (JavaScript/TypeScript):
 - Vue.js (WIP, latest v3)
 - React.js
 - Templating - JSX / TSX / Vue / Pug
+
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/harry-manchanda.appspot.com/o/code-3.png?alt=media&token=242a3410-ddc3-41eb-8db9-87e35e80764a" height="300" width="300">
+
 - Rest API
 - GraphQL API
 - CSS Flexbox (WIP, revision)
