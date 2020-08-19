@@ -13,7 +13,3 @@ Harry's Favourite Programming Language is _Javascript/TypeScript_ and his curren
 Harry's next Goal is to become _DevOPS Engineer_ & _Cloud Solutions Architect_ (AWS/Google/Azure).
 
 Harry is a _Developer/Engineer_ (and not a _Designer_) but is also Interested in Design stuff & dreams to become a _Design Technologist_ in the future and is interested in exploring more and more on _UI/UX Design & Motion Design_ in upcoming years. He also plans to explore learning _Native/Hybrid Mobile Apps & Desktop Apps Development_.
-
-- You can learn more about harry's skills, professional recommendations etc [from here](https://www.linkedin.com/in/harrymanchanda).
-
-- If you are here to explore my code, please click on the repositories tab for exploring all of my repositories or click on the below pinned repositories 👇 for exploring my pinned repositories.
