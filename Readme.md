@@ -2,7 +2,7 @@
 
 ### 🤘 Hey, This is Harry!
 
-Harry is a _Full-stack Web Development Engineer_. Harry is a Postgraduate in _Masters of Computer Applications_. Harry is is 27 years old.
+Harry is a **Full-stack Web Development Engineer**. Harry is a Postgraduate in _Masters of Computer Applications_. Harry is is 27 years old.
 
 Till 2019, Harry has worked as a _Frontend Web Developer_ but then in 2020, he took a _Career Break_ to become a _Full-stack Web Development Engineer_.
 
