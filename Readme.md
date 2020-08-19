@@ -1,6 +1,8 @@
 # 🤘 Hello There
 
-Harman Singh Manchanda (Harry) is 27 years old. Till 2019, Harry has worked as a "Frontend Web Developer" but then in 2020, he took a "Career Break" to become a "Full-stack Web Development Engineer".
+This is Harman Singh Manchanda (Harry)'s Github Profile.
+
+Harry is 27 years old. Till 2019, Harry has worked as a "Frontend Web Developer" but then in 2020, he took a "Career Break" to become a "Full-stack Web Development Engineer".
 
 Harry has "5 years" of Full Time Professional experience in "Frontend Development" and is now looking to Grow in his Career by working on projects fully Full-stack. Harry is a Postgraduate in "Masters of Computer Applications".
 
