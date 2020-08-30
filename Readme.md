@@ -10,7 +10,7 @@ Harry is a **Full-stack Web Development Engineer** and can build you Full-stack 
 
 Harry is a Postgraduate in _Masters of Computer Applications_.
 
-Harry's Favourite Programming Language is _Javascript & TypeScript_ and his current full stack for building web apps revolves around that. That said, he plans to Master _Python_ also for Backend API Development.
+Harry is a _Javascript & TypeScript_ Developer and his current full stack for building web apps revolves around that. That said, he plans to Master _Python_ also for Backend API Development.
 
 Harry's next Goal is to become _DevOPS Engineer_ & _Cloud Solutions Architect_ (AWS/Google/Azure).
 
