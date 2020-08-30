@@ -6,14 +6,12 @@
 
 ### It's very nice to meet you 🙌
 
-Harry is a **Full-stack Web Development Engineer** and can build you Full-stack JavaScript/TypeScript Web Apps in "Vue.js or React.js ecosystem for Frontend" and "Node.js ecosystem for Backend" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB)" to choose from for Data Persistence.
+Harry is a **Full-stack Web Development Engineer (JavaScript & TypeScript)** and can build you Full-stack Web Apps in "Vue.js or React.js ecosystem for Frontend" and "Node.js ecosystem for Backend" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB)" to choose from for Data Persistence.
 
 Harry is a Postgraduate in _Masters of Computer Applications_.
 
-Harry's Favourite Programming Language is _Javascript/TypeScript_ and his current full stack for building web apps revolves around that. That being said, he knows Python also and thus is also Interested in skilling up with Python for Backend API Development in the near future.
+Harry's Favourite Programming Language is _Javascript & TypeScript_ and his current full stack for building web apps revolves around that. That said, he plans to Master _Python_ also for Backend API Development.
 
 Harry's next Goal is to become _DevOPS Engineer_ & _Cloud Solutions Architect_ (AWS/Google/Azure).
-
-Harry is a _Developer/Engineer_ (and not a _Designer_) but is also Interested in Design stuff & dreams to become a _Design Technologist_ in the future and is interested in exploring more and more on _UI/UX Design & Motion Design_ in upcoming years. He also plans to explore learning _Native/Hybrid Mobile Apps & Desktop Apps Development_.
 
 You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
