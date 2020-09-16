@@ -12,13 +12,13 @@ Harry is a Postgraduate in _Masters of Computer Applications_.
 
 Harry is a _Javascript & TypeScript_ Developer and his current full stack for building Web Apps revolves around that. That said, he plans to Master _Python_ also for Backend API Development.
 
-Harry's next Goal is to become _DevOPS Engineer_ & _Cloud Solutions Architect_ (AWS/Google/Azure).
-
 Harry's Professional experience timeline:
 
 - Career Break in 2020 to become a "Full-stack Web Developer" (Feb 2020 – Present)
 - 5 years of Full Time Work experience as "Frontend Web Developer" (Till Jan 2020)
 - Started learning coding back in Mid 2012 at the age of 19.
+
+Harry's Goal in 2021 and beyond is to become _DevOPS Engineer_ & _Cloud Solutions Architect_ (AWS/Google/Azure).
 
 You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
