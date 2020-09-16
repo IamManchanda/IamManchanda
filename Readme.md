@@ -19,7 +19,6 @@ Harry's Professional experience timeline:
 - Started learning coding back in Mid 2012 at the age of 19.
 
 Harry's Goal in 2021 and beyond is to become _DevOPS Engineer_ & _Cloud Solutions Architect_ (AWS/Google/Azure).
-
 You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
 ![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)
