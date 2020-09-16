@@ -40,6 +40,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="PG Admin" title="PG Admin" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Antu_pgadmin.svg/240px-Antu_pgadmin.svg.png"></code>
 <code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://webassets.mongodb.com/_com_assets/cms/3T_Logo_pos@1.75x-6sxhbwp9mx.png"></code>
 <code><img alt="Github" title="Github" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"></code>
+<code><img alt="Gitlab" title="Gitlab" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg"></code>
 
 <h2>✈️ Github Stats</h2>
 
