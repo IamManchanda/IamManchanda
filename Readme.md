@@ -51,7 +51,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Vue.js" title="Vue.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
 <code><img alt="React.js" title="React.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 <code><img alt="Nuxt.js" title="Nuxt.js" height="50" src="https://nuxtjs.org/logos/nuxt-square.svg"></code>
-<code><img alt="Next.js" title="Next.js" height="50" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"></code>
+<code><img alt="Next.js" title="Next.js" height="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img alt="Nest.js" title="Nest.js" height="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
 <code><img alt="Redux.js" title="Redux.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
 <code><img alt="Vuetify.js" title="Vuetify.js" height="50" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></code>
