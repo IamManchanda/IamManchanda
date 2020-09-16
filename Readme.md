@@ -58,6 +58,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Buefy JS" title="Buefy JS" height="50" src="https://avatars0.githubusercontent.com/u/26799900"></code>
 <code><img alt="Apollo JS" title="Apollo JS" height="50" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png"></code>
 <code><img alt="MySQL" title="MySQL" height="50" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"></code>
+<code><img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 
 <h2>✈️ Github Stats</h2>
 
