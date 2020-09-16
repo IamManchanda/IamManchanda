@@ -54,7 +54,6 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Nest.js" title="Nest.js" height="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
 <code><img alt="Redux.js" title="Redux.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
 <code><img alt="Vuetify.js" title="Vuetify.js" height="50" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></code>
-<code><img alt="Bulma CSS" title="Bulma CSS" height="50" src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png"></code>
 <code><img alt="Buefy JS" title="Buefy JS" height="50" src="https://avatars0.githubusercontent.com/u/26799900"></code>
 <code><img alt="Apollo JS" title="Apollo JS" height="50" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png"></code>
 <code><img alt="MySQL" title="MySQL" height="50" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"></code>
@@ -66,8 +65,6 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Netlify" title="Netlify" height="50" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png"></code>
 <code><img alt="Serverless Framework" title="Serverless Framework" height="50" src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/logos/Serverless_mark_black_400x400_v3%402x.jpg"></code>
 <code><img alt="Docker" title="Docker" height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
-<code><img alt="Docker Compose" title="Docker Compose" height="50" src="https://raw.githubusercontent.com/docker/compose/master/logo.png"></code>
-<code><img alt="Docker Swarm" title="Docker Swarm" height="50" src="https://miro.medium.com/max/2800/0*Hl-1BN46JLiTh8UM.png"></code>
 <code><img alt="Kubernetes" title="Kubernetes" height="50" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png"></code>
 
 <h2>✈️ Github Stats</h2>
