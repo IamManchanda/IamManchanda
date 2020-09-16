@@ -62,8 +62,9 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 <code><img alt="MongoDB" title="MongoDB" height="50" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <code><img alt="Amazon DynamoDB" title="Amazon DynamoDB" height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png"></code>
-<code><img alt="Redis" title="Redis" height="50" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg"></code>
+<code><img alt="Redis" title="Redis" height="50" src="https://cdn.iconscout.com/icon/free/png-512/redis-3-1175053.png"></code>
 <code><img alt="Vercel" title="Vercel" height="50" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png"></code>
+<code><img alt="Netlify" title="Netlify" height="50" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png"></code>
 
 <h2>✈️ Github Stats</h2>
 
