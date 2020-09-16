@@ -14,12 +14,13 @@ Harry is a _Javascript & TypeScript_ Developer and his current full stack for bu
 
 You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
-<code><img width="450" src="https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&show_icons=true&theme=tokyonight&hide=contribs" /></code>
-<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=tokyonight&langs_count=10&layout=compact&hide=makefile,objective-c,java,c" /></code>
-
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=tokyonight&langs_count=10&layout=compact&hide=makefile,objective-c,java,c -->
-
 <h2>🏄‍♂️ Languages & Tools:</h2>
 
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg"></code>
+
+<h2>💎 Github Stats</h2>
+
+![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)
+
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=tokyonight&langs_count=10&layout=compact&hide=makefile,objective-c,java,c -->
