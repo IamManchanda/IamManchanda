@@ -20,5 +20,5 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 
 <h2>🤘 Some Languages & Tools that I use:</h2>
 
-<img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg">
-<img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg">
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg"></code>
