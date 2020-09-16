@@ -32,6 +32,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Gitkraken" title="Gitkraken" height="50" src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png"></code>
 <code><img alt="VSCode" title="VSCode" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 <code><img alt="Node.js" title="Node.js" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg"></code>
+<code><img alt="NPM" title="NPM" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"></code>
 
 <h2>✈️ Github Stats</h2>
 
