@@ -35,7 +35,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Webpack" title="Webpack" height="50" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.svg"></code>
 <code><img alt="Gulp" title="Gulp" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg"></code>
 <code><img alt="Postman" title="Postman" height="50" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"></code>
-<code><img alt="Rest API" title="Rest API" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094456.svg"></code>
+<code><img alt="REST API" title="Rest API" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094456.svg"></code>
 <code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"></code>
 <code><img alt="MySQL Workbench" title="MySQL Workbench" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/240px-Antu_mysql-workbench.svg.png"></code>
 <code><img alt="PG Admin" title="PG Admin" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Antu_pgadmin.svg/240px-Antu_pgadmin.svg.png"></code>
@@ -47,6 +47,8 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="ANT Design" title="ANT Design" height="50" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></code>
 <code><img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://tailwindcss.com/_next/static/media/twitter-square.18b32c43e6fa4c8ee7db66330112a331.png"></code>
 <code><img alt="Styled Components" title="Styled Components" height="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.svg"></code>
+<code><img alt="Vue.js" title="Vue.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
+<code><img alt="React.js" title="React.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 
 <h2>✈️ Github Stats</h2>
 
