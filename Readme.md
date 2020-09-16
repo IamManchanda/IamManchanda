@@ -14,7 +14,7 @@ Harry is a _Javascript & TypeScript_ Developer and his current full stack for bu
 
 You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
-<h2>🏄‍♂️ Programming Languages & Tools:</h2>
+<h2>🏄‍♂️ Programming Tools:</h2>
 
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
 <code><img alt="CSS 3" title="CSS 3" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg"></code>
