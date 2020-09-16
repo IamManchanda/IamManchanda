@@ -43,6 +43,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Gitlab" title="Gitlab" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg"></code>
 <code><img alt="Zurb Foundation" title="Zurb Foundation" height="50" src="https://get.foundation/assets/img/learn/features/svgs/code-reduction-01.svg"></code>
 <code><img alt="Bootstrap" title="Bootstrap" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
+<code><img alt="ANT Design" title="ANT Design" height="50" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></code>
 
 <h2>✈️ Github Stats</h2>
 
