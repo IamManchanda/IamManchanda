@@ -16,6 +16,6 @@ Harry's next Goal is to become _DevOPS Engineer_ & _Cloud Solutions Architect_ (
 
 You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
-![Harry's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&show_icons=true&layout=compact&theme=tokyonight&hide=contribs)
+![Harry's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)
 
 ![Harry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=tokyonight&langs_count=10&layout=compact&hide=makefile,objective-c,java,c)
