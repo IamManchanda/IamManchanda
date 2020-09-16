@@ -14,6 +14,8 @@ Harry is a _Javascript & TypeScript_ Developer and his current full stack for bu
 
 You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
+<br/>
+
 <h2>🏄‍♂️ Programming Tools:</h2>
 
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
@@ -70,6 +72,8 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Docker Compose" title="Docker Compose" height="50" src="https://raw.githubusercontent.com/docker/compose/master/logo.png"></code>
 <code><img alt="Docker Swarm" title="Docker Swarm" height="50" src="https://miro.medium.com/max/2800/0*Hl-1BN46JLiTh8UM.png"></code>
 <code><img alt="Kubernetes" title="Kubernetes" height="50" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png"></code>
+
+<br/>
 
 <h2>✈️ Github Stats</h2>
 
