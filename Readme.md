@@ -44,6 +44,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Zurb Foundation" title="Zurb Foundation" height="50" src="https://get.foundation/assets/img/learn/features/svgs/code-reduction-01.svg"></code>
 <code><img alt="Bootstrap" title="Bootstrap" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img alt="ANT Design" title="ANT Design" height="50" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></code>
+<code><img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://tailwindcss.com/_next/static/media/twitter-square.18b32c43e6fa4c8ee7db66330112a331.png"></code>
 
 <h2>✈️ Github Stats</h2>
 
