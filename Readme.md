@@ -61,6 +61,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 <code><img alt="MongoDB" title="MongoDB" height="50" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <code><img alt="Amazon DynamoDB" title="Amazon DynamoDB" height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png"></code>
+<code><img alt="Redis" title="Redis" height="50" src="https://redis.io/images/redis-white.png"></code>
 
 <h2>✈️ Github Stats</h2>
 
