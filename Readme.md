@@ -16,14 +16,14 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 
 <h2>🏄‍♂️ Languages & Tools:</h2>
 
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/541/541490.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/541/541501.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094320.svg"></code>
+<code><img alt="HTML 5" title="HTML 5" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
+<code><img alt="CSS 3" title="CSS 3" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg"></code>
+<code><img alt="Sass/SCSS" title="Sass/SCSS" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg"></code>
+<code><img alt="JavaScript" title="JavaScript" height="50" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg"></code>
+<code><img alt="TypeScript" title="TypeScript" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg"></code>
+<code><img alt="JSX" title="JSX" height="50" src="https://www.flaticon.com/svg/static/icons/svg/541/541490.svg"></code>
+<code><img alt="TSX" title="TSX" height="50" src="https://www.flaticon.com/svg/static/icons/svg/541/541501.svg"></code>
+<code><img alt="CSS-in-JS" title="CSS-in-JS" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094320.svg"></code>
 
 <h2>✈️ Github Stats</h2>
 
