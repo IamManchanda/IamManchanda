@@ -67,6 +67,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Netlify" title="Netlify" height="50" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png"></code>
 <code><img alt="Serverless Framework" title="Serverless Framework" height="50" src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/logos/Serverless_mark_black_400x400_v3%402x.jpg"></code>
 <code><img alt="Docker" title="Docker" height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
+<code><img alt="Docker Swarm" title="Docker Swarm" height="50" src="https://miro.medium.com/max/2800/0*Hl-1BN46JLiTh8UM.png"></code>
 <code><img alt="Kubernetes" title="Kubernetes" height="50" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png"></code>
 
 <h2>✈️ Github Stats</h2>
