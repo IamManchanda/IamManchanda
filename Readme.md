@@ -18,6 +18,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg"></code>
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg"></code>
 
 <h2>✈️ Github Stats</h2>
 
