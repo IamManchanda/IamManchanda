@@ -29,6 +29,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="YAML" title="YAML" height="50" src="https://www.flaticon.com/svg/static/icons/svg/187/187689.svg"></code>
 <code><img alt="Homebrew" title="Homebrew" height="50" src="https://brew.sh/assets/img/homebrew-256x256.png"></code>
 <code><img alt="Git" title="Git" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"></code>
+<code><img alt="Gitkraken" title="Gitkraken" height="50" src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png"></code>
 
 <h2>✈️ Github Stats</h2>
 
