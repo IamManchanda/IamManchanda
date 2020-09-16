@@ -35,6 +35,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Webpack" title="Webpack" height="50" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.svg"></code>
 <code><img alt="Gulp" title="Gulp" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg"></code>
 <code><img alt="Postman" title="Postman" height="50" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"></code>
+<code><img alt="Rest API" title="Rest API" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094456.svg"></code>
 <code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"></code>
 <code><img alt="MySQL Workbench" title="MySQL Workbench" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/240px-Antu_mysql-workbench.svg.png"></code>
 <code><img alt="PG Admin" title="PG Admin" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Antu_pgadmin.svg/240px-Antu_pgadmin.svg.png"></code>
