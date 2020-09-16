@@ -38,6 +38,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"></code>
 <code><img alt="MySQL Workbench" title="MySQL Workbench" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/240px-Antu_mysql-workbench.svg.png"></code>
 <code><img alt="PG Admin" title="PG Admin" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Antu_pgadmin.svg/240px-Antu_pgadmin.svg.png"></code>
+<code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://webassets.mongodb.com/_com_assets/cms/3T_Logo_pos@1.75x-6sxhbwp9mx.png"></code>
 
 <h2>✈️ Github Stats</h2>
 
