@@ -49,6 +49,8 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Styled Components" title="Styled Components" height="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.svg"></code>
 <code><img alt="Vue.js" title="Vue.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
 <code><img alt="React.js" title="React.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img alt="Nuxt.js" title="Nuxt.js" height="50" src="https://nuxtjs.org/logos/nuxt-square.svg"></code>
+<code><img alt="Next.js" title="Next.js" height="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 
 <h2>✈️ Github Stats</h2>
 
