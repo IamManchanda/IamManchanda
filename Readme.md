@@ -14,7 +14,7 @@ Harry is a _Javascript & TypeScript_ Developer and his current full stack for bu
 
 You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
-<code><img src="https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&show_icons=true&theme=tokyonight&hide=contribs" /></code>
+<code><img width="450" src="https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&show_icons=true&theme=tokyonight&hide=contribs" /></code>
 <code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=tokyonight&langs_count=10&layout=compact&hide=makefile,objective-c,java,c" /></code>
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=tokyonight&langs_count=10&layout=compact&hide=makefile,objective-c,java,c -->
