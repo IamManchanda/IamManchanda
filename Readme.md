@@ -56,6 +56,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Vuetify.js" title="Vuetify.js" height="50" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></code>
 <code><img alt="Bulma CSS" title="Bulma CSS" height="50" src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png"></code>
 <code><img alt="Buefy JS" title="Buefy JS" height="50" src="https://avatars0.githubusercontent.com/u/26799900"></code>
+<code><img alt="Apollo JS" title="Apollo JS" height="50" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png"></code>
 
 <h2>✈️ Github Stats</h2>
 
