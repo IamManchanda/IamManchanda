@@ -17,3 +17,8 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 ![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=tokyonight&langs_count=10&layout=compact&hide=makefile,objective-c,java,c -->
+
+<h2>🤘 Some Languages & Tools that I use:</h2>
+
+<img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg">
+<img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg">
