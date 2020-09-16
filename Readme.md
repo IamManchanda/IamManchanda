@@ -24,6 +24,9 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="JSX" title="JSX" height="50" src="https://www.flaticon.com/svg/static/icons/svg/541/541490.svg"></code>
 <code><img alt="TSX" title="TSX" height="50" src="https://www.flaticon.com/svg/static/icons/svg/541/541501.svg"></code>
 <code><img alt="CSS-in-JS" title="CSS-in-JS" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094320.svg"></code>
+<code><img alt="Python" title="Python" height="50" src="https://www.flaticon.com/svg/static/icons/svg/1387/1387537.svg"></code>
+<code><img alt="JSON" title="JSON" height="50" src="https://www.flaticon.com/svg/static/icons/svg/136/136525.svg"></code>
+<code><img alt="YAML" title="YAML" height="50" src="https://www.flaticon.com/premium-icon/icons/svg/377/377190.svg"></code>
 
 <h2>✈️ Github Stats</h2>
 
