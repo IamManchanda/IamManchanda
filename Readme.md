@@ -70,6 +70,6 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Docker" title="Docker" height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
 <code><img alt="Kubernetes" title="Kubernetes" height="50" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png"></code>
 
-<h2>🍻 Harry's most used languages at Github:</h2>
+<!-- <h2>🍻 Harry's most used languages at Github:</h2> -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=tokyonight&langs_count=10&layout=compact&hide=makefile,objective-c,java,c)
+<!-- Most Used Languages https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=tokyonight&langs_count=10&layout=compact&hide=makefile,objective-c,java,c -->
