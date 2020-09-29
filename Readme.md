@@ -12,7 +12,7 @@ Harry is a Postgraduate in _Masters of Computer Applications_.
 
 Harry is a _Javascript & TypeScript_ Developer and his current full stack for building Web Apps revolves around that. That said, he plans to Master _Python_ also for Backend API Development.
 
-You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his <a href="https://www.linkedin.com/in/harrymanchanda/" target="_blank"><strong>Linkedin Profile here</strong></a>.
+You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
 <h2>🏄‍♂️ Harry's Programming Tools:</h2>
 
