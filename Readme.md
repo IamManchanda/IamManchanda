@@ -14,10 +14,6 @@ Harry is a _Javascript & TypeScript_ Developer and his current full stack for bu
 
 You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
-<h2>✈️ Harry's Github Stats:</h2>
-
-![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)
-
 <h2>🏄‍♂️ Harry's Programming Tools:</h2>
 
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
@@ -69,6 +65,10 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://www.realwire.com/writeitfiles/studio-3t-logo-green-on-white.jpg"></code>
 <code><img alt="Github" title="Github" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"></code>
 <code><img alt="Gitlab" title="Gitlab" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg"></code>
+
+<h2>✈️ Harry's Github Stats:</h2>
+
+![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)
 
 <!-- <h2>🍻 Harry's most used languages at Github:</h2> -->
 
