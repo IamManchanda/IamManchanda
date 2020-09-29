@@ -31,21 +31,12 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Python" title="Python" height="50" src="https://www.flaticon.com/svg/static/icons/svg/1387/1387537.svg"></code>
 <code><img alt="JSON" title="JSON" height="50" src="https://www.flaticon.com/svg/static/icons/svg/136/136525.svg"></code>
 <code><img alt="YAML" title="YAML" height="50" src="https://www.flaticon.com/svg/static/icons/svg/187/187689.svg"></code>
-<code><img alt="Homebrew" title="Homebrew" height="50" src="https://brew.sh/assets/img/homebrew-256x256.png"></code>
-<code><img alt="Git" title="Git" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"></code>
-<code><img alt="Gitkraken" title="Gitkraken" height="50" src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png"></code>
-<code><img alt="VSCode" title="VSCode" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 <code><img alt="Node.js" title="Node.js" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg"></code>
 <code><img alt="Webpack" title="Webpack" height="50" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.svg"></code>
 <code><img alt="Gulp" title="Gulp" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg"></code>
 <code><img alt="Postman" title="Postman" height="50" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"></code>
 <code><img alt="REST API" title="Rest API" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094456.svg"></code>
 <code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"></code>
-<code><img alt="MySQL Workbench" title="MySQL Workbench" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/240px-Antu_mysql-workbench.svg.png"></code>
-<code><img alt="PG Admin" title="PG Admin" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Antu_pgadmin.svg/240px-Antu_pgadmin.svg.png"></code>
-<code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://www.realwire.com/writeitfiles/studio-3t-logo-green-on-white.jpg"></code>
-<code><img alt="Github" title="Github" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"></code>
-<code><img alt="Gitlab" title="Gitlab" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg"></code>
 <code><img alt="Zurb Foundation" title="Zurb Foundation" height="50" src="https://get.foundation/assets/img/learn/features/svgs/code-reduction-01.svg"></code>
 <code><img alt="Bootstrap" title="Bootstrap" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img alt="ANT Design" title="ANT Design" height="50" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></code>
@@ -69,6 +60,15 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Serverless Framework" title="Serverless Framework" height="50" src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/logos/Serverless_mark_black_400x400_v3%402x.jpg"></code>
 <code><img alt="Docker" title="Docker" height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
 <code><img alt="Kubernetes" title="Kubernetes" height="50" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png"></code>
+<code><img alt="Homebrew" title="Homebrew" height="50" src="https://brew.sh/assets/img/homebrew-256x256.png"></code>
+<code><img alt="Git" title="Git" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"></code>
+<code><img alt="Gitkraken" title="Gitkraken" height="50" src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png"></code>
+<code><img alt="VSCode" title="VSCode" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<code><img alt="MySQL Workbench" title="MySQL Workbench" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/240px-Antu_mysql-workbench.svg.png"></code>
+<code><img alt="PG Admin" title="PG Admin" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Antu_pgadmin.svg/240px-Antu_pgadmin.svg.png"></code>
+<code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://www.realwire.com/writeitfiles/studio-3t-logo-green-on-white.jpg"></code>
+<code><img alt="Github" title="Github" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"></code>
+<code><img alt="Gitlab" title="Gitlab" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg"></code>
 
 <!-- <h2>🍻 Harry's most used languages at Github:</h2> -->
 
