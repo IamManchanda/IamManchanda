@@ -68,5 +68,5 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 
 <h2>✈️ Harry's Github Stats:</h2>
 
-![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs)
-![Harry Manchanda's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=tokyonight&langs_count=10&layout=compact&hide=makefile,objective-c,java,c)
+![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
+![Harry Manchanda's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&langs_count=10&layout=compact&hide=makefile,objective-c,java,c)
