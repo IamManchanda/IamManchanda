@@ -30,22 +30,22 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Node.js" title="Node.js" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg"></code>
 <code><img alt="Webpack" title="Webpack" height="50" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.svg"></code>
 <code><img alt="Gulp" title="Gulp" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg"></code>
-<code><img alt="Postman" title="Postman" height="50" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"></code>
-<code><img alt="REST API" title="Rest API" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094456.svg"></code>
-<code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"></code>
-<code><img alt="Prisma" title="Prisma" height="50" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"></code>
 <code><img alt="Zurb Foundation" title="Zurb Foundation" height="50" src="https://get.foundation/assets/img/learn/features/svgs/code-reduction-01.svg"></code>
 <code><img alt="Bootstrap" title="Bootstrap" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img alt="ANT Design" title="ANT Design" height="50" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></code>
 <code><img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://tailwindcss.com/_next/static/media/twitter-square.18b32c43e6fa4c8ee7db66330112a331.png"></code>
 <code><img alt="Styled Components" title="Styled Components" height="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.svg"></code>
 <code><img alt="Vue.js" title="Vue.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
-<code><img alt="React.js" title="React.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-<code><img alt="Nuxt.js" title="Nuxt.js" height="50" src="https://nuxtjs.org/logos/nuxt-square.svg"></code>
-<code><img alt="Next.js" title="Next.js" height="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-<code><img alt="Nest.js" title="Nest.js" height="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
-<code><img alt="Redux.js" title="Redux.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
 <code><img alt="Vuetify.js" title="Vuetify.js" height="50" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></code>
+<code><img alt="Nuxt.js" title="Nuxt.js" height="50" src="https://nuxtjs.org/logos/nuxt-square.svg"></code>
+<code><img alt="React.js" title="React.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img alt="Next.js" title="Next.js" height="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
+<code><img alt="Redux.js" title="Redux.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
+<code><img alt="Postman" title="Postman" height="50" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"></code>
+<code><img alt="REST API" title="Rest API" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094456.svg"></code>
+<code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"></code>
+<code><img alt="Nest.js" title="Nest.js" height="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
+<code><img alt="Prisma" title="Prisma" height="50" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"></code>
 <code><img alt="Apollo GraphQL" title="Apollo GraphQL" height="50" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png"></code>
 <code><img alt="MySQL" title="MySQL" height="50" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"></code>
 <code><img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
