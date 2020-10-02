@@ -33,6 +33,7 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Postman" title="Postman" height="50" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"></code>
 <code><img alt="REST API" title="Rest API" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094456.svg"></code>
 <code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"></code>
+<code><img alt="Prisma" title="Prisma" height="50" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"></code>
 <code><img alt="Zurb Foundation" title="Zurb Foundation" height="50" src="https://get.foundation/assets/img/learn/features/svgs/code-reduction-01.svg"></code>
 <code><img alt="Bootstrap" title="Bootstrap" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img alt="ANT Design" title="ANT Design" height="50" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></code>
