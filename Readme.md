@@ -6,15 +6,20 @@
 
 ### It's very nice to meet you 🙌
 
-Harry is a **Full-stack Web Developer** who can build you Full-stack Web Apps in "Vue.js or React.js ecosystem for Frontend" and "Node.js ecosystem for Backend" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB)" to choose from for Data Persistence.
+Hello there, This is Harry Manchanda a **Full-stack Web Developer** who can build you Full-stack Web Apps in "Vue.js or React.js ecosystem for Frontend" and "Node.js ecosystem for Backend" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB)" to choose from for Data Persistence.
 
-Harry is a Postgraduate in _Masters of Computer Applications_.
+I am a Postgraduate in _Masters of Computer Applications_.
 
-Harry is a _Javascript & TypeScript_ Developer and his current full stack for building Web Apps revolves around that. That said, he plans to Master _Python_ also for Backend API Development.
+I am a _Javascript & TypeScript_ Developer and my current full stack for building Web Apps revolves around that. That said, I plan to Master _Python_ also for Backend API Development.
 
-You can learn more about Harry and his Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
+You can learn more about me and my Skills, Education, Professional Recommendations, etc from his [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
-<h2>🏄‍♂️ Harry's Programming Tools:</h2>
+<h2>✈️ Github Stats:</h2>
+
+![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
+![Harry Manchanda's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&langs_count=10&layout=compact&hide=makefile,objective-c,java,c)
+
+<h2>🏄‍♂️ Programming Tools:</h2>
 
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
 <code><img alt="CSS 3" title="CSS 3" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg"></code>
@@ -66,8 +71,3 @@ You can learn more about Harry and his Skills, Education, Professional Recommend
 <code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://www.realwire.com/writeitfiles/studio-3t-logo-green-on-white.jpg"></code>
 <code><img alt="Github" title="Github" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"></code>
 <code><img alt="Gitlab" title="Gitlab" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg"></code>
-
-<h2>✈️ Harry's Github Stats:</h2>
-
-![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
-![Harry Manchanda's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&langs_count=10&layout=compact&hide=makefile,objective-c,java,c)
