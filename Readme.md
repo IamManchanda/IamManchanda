@@ -46,7 +46,7 @@ You can learn more about me and my Skills, Education, Professional Recommendatio
 <code><img alt="Vue.js" title="Vue.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></code>
 <code><img alt="Vuetify.js" title="Vuetify.js" height="50" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" /></code>
 <code><img alt="Ant Design Vue" title="Ant Design Vue" height="50" src="https://svgur.com/i/QxA.svg" /></code>
-<code><img alt="Nuxt.js" title="Nuxt.js" height="50" src="https://nuxtjs.org/logos/nuxt-square.svg /"></code>
+<code><img alt="Nuxt.js" title="Nuxt.js" height="50" src="https://nuxtjs.org/logos/nuxt-square.svg" /></code>
 <code><img alt="React.js" title="React.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></code>
 <code><img alt="Preact.js" title="Preact.js" height="50" src="https://avatars0.githubusercontent.com/u/26872990" /></code>
 <code><img alt="Redux.js" title="Redux.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" /></code>
