@@ -61,6 +61,7 @@ You can learn more about me and my Skills, Education, Professional Recommendatio
 <code><img alt="Apollo GraphQL" title="Apollo GraphQL" height="50" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" /></code>
 <code><img alt="URQL" title="URQL" height="50" src="https://svgshare.com/i/QwM.svg" /></code>
 <code><img alt="Nexus.js" title="Nexus.js" height="50" src="https://i.imgur.com/Y5BgDGl.png" /></code>
+<code><img alt="Sequelize ORM" title="Sequelize ORM" height="50" src="https://pbs.twimg.com/profile_images/378800000760396520/6d0e29bfaf1af7fdf470054bccc649cb_400x400.png" /></code>
 <code><img alt="TypeORM" title="TypeORM" height="50" src="https://avatars2.githubusercontent.com/u/20165699" /></code>
 <code><img alt="MySQL" title="MySQL" height="50" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" /></code>
 <code><img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></code>
