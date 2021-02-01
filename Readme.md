@@ -10,7 +10,7 @@ Hello there, this is Harry Manchanda, a **Full-stack Web Developer** who can bui
 
 I am a Postgraduate in _Masters of Computer Applications_.
 
-I am a _Javascript & TypeScript_ Developer and my current full stack for building Web Apps revolves around that. That said, I plan to master _Python_ also for Backend API Development.
+I am a _Javascript & TypeScript_ Developer and my current full stack for building Web Apps revolves around that. That said, I plan to master _Python_ also for Backend API Development in the near future.
 
 You can learn more about me and my Skills, Education, Professional Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
