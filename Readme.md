@@ -14,12 +14,12 @@ I am a _Javascript & TypeScript_ Developer and my current full stack for buildin
 
 You can learn more about me and my Skills, Education, Professional Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
-<h2>✈️ Github Stats:</h2>
+<h2>✈️ Harry's Github Stats:</h2>
 
 ![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
 ![Harry Manchanda's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&langs_count=10&layout=compact&hide=makefile,objective-c,java,c)
 
-<h2>🏄‍♂️ Programming Tools:</h2>
+<h2>🏄‍♂️ Harry's Programming Toolkit:</h2>
 
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" /></code>
 <code><img alt="CSS 3" title="CSS 3" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" /></code>
