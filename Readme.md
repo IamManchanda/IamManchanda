@@ -17,7 +17,7 @@ You can learn more about me and my Skills, Education, Professional Recommendatio
 <h2>✈️ Harry's Github Stats:</h2>
 
 ![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&theme=flag-india&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
-![Harry Manchanda's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=flag-india&langs_count=10&layout=compact&hide=makefile,objective-c,ruby,shell,java)
+![Harry Manchanda's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=flag-india&langs_count=10&layout=compact&hide=makefile,ruby,shell,java,objective-c)
 
 <h2>🏄‍♂️ Harry's Programming Toolkit:</h2>
 
