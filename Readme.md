@@ -2,6 +2,8 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/4970624/102078863-a7889d80-3e31-11eb-917c-80b590fd3a66.png" height="350" width="350" />
 
+<p>&nbsp;</p>
+
 ### It's very nice to meet you 🙌
 
 Hello there, this is Harry Manchanda, a **Full-stack Web Developer** who can build you Full-stack Web Apps in "Vue.js or React.js ecosystem for Frontend Development" and "Node.js ecosystem for Backend Development" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB)" to choose from for Data Persistence. When it comes to Web API's, I can work with both REST and GraphQL.
