@@ -12,7 +12,7 @@ I am a Postgraduate in _Masters of Computer Applications_.
 
 I am a _Javascript & TypeScript_ Developer and my current full stack for building Web Apps revolves around that. That said, I plan to master _Python_ also for Backend API Development in the near future.
 
-You can learn more about me and my Skills, Education, Work Experience, Professional Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
+<p>You can learn more about me and my Skills, Education, Work Experience, Professional Recommendations, etc from my <a href="https://www.linkedin.com/in/harrymanchanda/" target="_blank"><strong>Linkedin Profile here</strong></a>.</p>
 
 <h2>✈️ Harry's Github Stats:</h2>
 
