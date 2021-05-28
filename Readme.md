@@ -1,12 +1,5 @@
 <h1 align="center">🤘 Hello there, it's <a href="https://www.linkedin.com/in/harrymanchanda">Harry Manchanda</a>!</h1>
 
-<div align="center">
-  
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HarmanManchanda)
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harrymanchanda)
-
-</div>
-
 <img align="right" src="https://user-images.githubusercontent.com/4970624/102078863-a7889d80-3e31-11eb-917c-80b590fd3a66.png" height="350" width="350" />
 
 <p>&nbsp;</p>
@@ -20,6 +13,8 @@ I am a Postgraduate in _Masters of Computer Applications_.
 I am a _Javascript & TypeScript_ Developer and my current full stack for building Web Apps revolves around that. That said, I plan to master _Python_ also for Backend API Development in the near future.
 
 You can learn more about me and my Skills, Education, Work Experience, Professional Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
+
+
 
 <h2>✈️ Harry's Github Stats:</h2>
 
@@ -89,3 +84,9 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 <code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://www.realwire.com/writeitfiles/studio-3t-logo-green-on-white.jpg" /></code>
 <code><img alt="Github" title="Github" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" /></code>
 <code><img alt="Gitlab" title="Gitlab" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" /></code>
+
+  
+<h2>👨‍💻 Harry's Social Profiles:</h2>
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HarmanManchanda)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harrymanchanda)
