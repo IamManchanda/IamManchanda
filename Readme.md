@@ -21,6 +21,11 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 ![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&theme=flag-india&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
 ![Harry Manchanda's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=flag-india&langs_count=10&layout=compact&hide=makefile,ruby,shell,java,objective-c)
 
+<h2>👨‍💻 Harry's Social Profiles:</h2>
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HarmanManchanda)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harrymanchanda)
+
 <h2>🏄‍♂️ Harry's Tech Toolbox:</h2>
 
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" /></code>
@@ -84,9 +89,3 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 <code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://www.realwire.com/writeitfiles/studio-3t-logo-green-on-white.jpg" /></code>
 <code><img alt="Github" title="Github" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" /></code>
 <code><img alt="Gitlab" title="Gitlab" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" /></code>
-
-  
-<h2>👨‍💻 Harry's Social Profiles:</h2>
-
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HarmanManchanda)
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harrymanchanda)
