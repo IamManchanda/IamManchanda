@@ -26,7 +26,7 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HarmanManchanda)
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harrymanchanda)
 
-<h2>🏄‍♂️ Harry's Tech Toolbox:</h2>
+<h2>🏄‍♂️ Harry's Tech Toolbox 🧰:</h2>
 
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" /></code>
 <code><img alt="CSS 3" title="CSS 3" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" /></code>
