@@ -1,7 +1,9 @@
 <h1 align="center">🤘 Hello there, it's <a href="https://www.linkedin.com/in/harrymanchanda">Harry Manchanda</a>!</h1>
 
+<div align="center">
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HarmanManchanda)
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harrymanchanda)
+</div>
 
 <img align="right" src="https://user-images.githubusercontent.com/4970624/102078863-a7889d80-3e31-11eb-917c-80b590fd3a66.png" height="350" width="350" />
 
