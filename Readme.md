@@ -21,6 +21,8 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 ![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&theme=flag-india&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
 ![Harry Manchanda's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=flag-india&langs_count=10&layout=compact&hide=makefile,ruby,shell,java,objective-c)
 
+Note: The Grading System used in the above Stats App is the [Japanese Grading System](https://en.wikipedia.org/wiki/Academic_grading_in_Japan) where S > A
+
 <h2>👨‍💻 Harry's Social Profiles:</h2>
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HarmanManchanda)
