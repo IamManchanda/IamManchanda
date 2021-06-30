@@ -90,4 +90,4 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="PG Admin" title="PG Admin" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Antu_pgadmin.svg/240px-Antu_pgadmin.svg.png" /></code>
 <code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://www.realwire.com/writeitfiles/studio-3t-logo-green-on-white.jpg" /></code>
 <code><img alt="Github" title="Github" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" /></code>
-<code><img alt="Gitlab" title="Gitlab" height="50" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" /></code>
+<code><img alt="Gitlab" title="Gitlab" height="50" src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-gray-stacked-rgb.svg" /></code>
