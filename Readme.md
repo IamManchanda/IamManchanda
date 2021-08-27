@@ -23,6 +23,9 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 
 Note: The Grading System used in the above Github Stats Tool is the [Japanese Grading System](https://en.wikipedia.org/wiki/Academic_grading_in_Japan) where `S > A`.
 
+> shū (秀) - Exemplary, excellent - S (90–100%) \
+> yū (優) - Very good - A (80–89%)
+
 <h2>👨‍💻 Harry's Social Profiles:</h2>
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HarmanManchanda)
