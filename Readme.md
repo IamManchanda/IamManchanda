@@ -41,10 +41,10 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="JSX" title="JSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541490.png" /></code>
 <code><img alt="TSX" title="TSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541501.png" /></code>
 <code><img alt="CSS-in-JS" title="CSS-in-JS" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094320.svg" /></code>
-<code><img alt="Python" title="Python" height="50" src="https://www.flaticon.com/svg/static/icons/svg/1387/1387537.svg" /></code>
-<code><img alt="JSON" title="JSON" height="50" src="https://www.flaticon.com/svg/static/icons/svg/136/136525.svg" /></code>
-<code><img alt="YAML" title="YAML" height="50" src="https://www.flaticon.com/svg/static/icons/svg/187/187689.svg" /></code>
-<code><img alt="Node.js" title="Node.js" height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" /></code>
+<code><img alt="Python" title="Python" height="50" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" /></code>
+<code><img alt="JSON" title="JSON" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541488.png" /></code>
+<code><img alt="YAML" title="YAML" height="50" src="https://cdn-icons-png.flaticon.com/512/187/187689.png" /></code>
+<code><img alt="Node.js" title="Node.js" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></code>
 <code><img alt="Nodemailer" title="Nodemailer" height="50" src="https://nodemailer.com/nm_logo_200x136.png" /></code>
 <code><img alt="Webpack" title="Webpack" height="50" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.svg" /></code>
 <code><img alt="Gulp" title="Gulp" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" /></code>
