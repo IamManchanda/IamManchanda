@@ -40,7 +40,7 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="TypeScript" title="TypeScript" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541500.png" /></code>
 <code><img alt="JSX" title="JSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541490.png" /></code>
 <code><img alt="TSX" title="TSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541501.png" /></code>
-<code><img alt="CSS-in-JS" title="CSS-in-JS" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094320.svg" /></code>
+<code><img alt="CSS-in-JS" title="CSS-in-JS" height="50" src="https://www.drupal.org/files/project-images/minify-css-javascript.png" /></code>
 <code><img alt="Python" title="Python" height="50" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" /></code>
 <code><img alt="JSON" title="JSON" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541488.png" /></code>
 <code><img alt="YAML" title="YAML" height="50" src="https://cdn-icons-png.flaticon.com/512/187/187689.png" /></code>
@@ -65,7 +65,7 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="Semantic UI React" title="Semantic UI React" height="50" src="https://react.semantic-ui.com/logo.png" /></code>
 <code><img alt="Next.js" title="Next.js" height="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /></code>
 <code><img alt="Postman" title="Postman" height="50" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" /></code>
-<code><img alt="REST API" title="Rest API" height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094456.svg" /></code>
+<code><img alt="REST API" title="Rest API" height="50" src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png" /></code>
 <code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" /></code>
 <code><img alt="TypeGraphQL" title="TypeGraphQL" height="50" src="https://typegraphql.com/img/logo.png" /></code>
 <code><img alt="Nest.js" title="Nest.js" height="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /></code>
@@ -86,11 +86,11 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="Docker" title="Docker" height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" /></code>
 <code><img alt="Kubernetes" title="Kubernetes" height="50" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" /></code>
 <code><img alt="Homebrew" title="Homebrew" height="50" src="https://brew.sh/assets/img/homebrew-256x256.png" /></code>
-<code><img alt="Git" title="Git" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg" /></code>
+<code><img alt="Git" title="Git" height="50" src="https://cdn-icons-png.flaticon.com/512/2680/2680847.png" /></code>
 <code><img alt="Gitkraken" title="Gitkraken" height="50" src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/gitkraken-logo-dark-sq.svg" /></code>
 <code><img alt="VSCode" title="VSCode" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /></code>
 <code><img alt="MySQL Workbench" title="MySQL Workbench" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/240px-Antu_mysql-workbench.svg.png" /></code>
 <code><img alt="PG Admin" title="PG Admin" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Antu_pgadmin.svg/240px-Antu_pgadmin.svg.png" /></code>
 <code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://www.realwire.com/writeitfiles/studio-3t-logo-green-on-white.jpg" /></code>
-<code><img alt="Github" title="Github" height="50" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" /></code>
+<code><img alt="Github" title="Github" height="50" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" /></code>
 <code><img alt="Gitlab" title="Gitlab" height="50" src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-gray-stacked-rgb.svg" /></code>
