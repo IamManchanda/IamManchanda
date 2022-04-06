@@ -63,7 +63,7 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="Redux.js" title="Redux.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" /></code>
 <code><img alt="Semantic UI React" title="Semantic UI React" height="50" src="https://react.semantic-ui.com/logo.png" /></code>
 <code><img alt="Next.js" title="Next.js" height="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /></code>
-<code><img alt="Postman" title="Postman" height="50" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" /></code>
+<code><img alt="Postman" title="Postman" height="50" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" /></code>
 <code><img alt="REST API" title="Rest API" height="50" src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png" /></code>
 <code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" /></code>
 <code><img alt="TypeGraphQL" title="TypeGraphQL" height="50" src="https://typegraphql.com/img/logo.png" /></code>
