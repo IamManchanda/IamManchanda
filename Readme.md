@@ -82,7 +82,7 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="Vercel" title="Vercel" height="50" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" /></code>
 <code><img alt="Netlify" title="Netlify" height="50" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" /></code>
 <code><img alt="Serverless Framework" title="Serverless Framework" height="50" src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/logos/Serverless_mark_black_400x400_v3%402x.jpg" /></code>
-<code><img alt="Docker" title="Docker" height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" /></code>
+<code><img alt="Docker" title="Docker" height="50" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" /></code>
 <code><img alt="Kubernetes" title="Kubernetes" height="50" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" /></code>
 <code><img alt="Homebrew" title="Homebrew" height="50" src="https://brew.sh/assets/img/homebrew-256x256.png" /></code>
 <code><img alt="Git" title="Git" height="50" src="https://cdn-icons-png.flaticon.com/512/2680/2680847.png" /></code>
