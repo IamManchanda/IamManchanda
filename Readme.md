@@ -51,7 +51,7 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="Bootstrap" title="Bootstrap" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></code>
 <code><img alt="Semantic UI" title="Semantic UI" height="50" src="https://cdn.worldvectorlogo.com/logos/semantic-ui.svg" /></code>
 <code><img alt="ANT Design" title="ANT Design" height="50" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" /></code>
-<code><img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" /></code>
+<code><img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" /></code>
 <code><img alt="Chakra UI" title="Chakra UI" height="50" src="https://img.stackshare.io/service/12421/rzylUjaf_400x400.jpg" /></code>
 <code><img alt="Styled Components" title="Styled Components" height="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.svg" /></code>
 <code><img alt="Vue.js" title="Vue.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></code>
