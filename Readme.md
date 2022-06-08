@@ -6,7 +6,7 @@
 
 ### It's very nice to meet you 🙌
 
-Hello there, this is Harry Manchanda, a **Full-stack Web Developer** who can build you Full-stack Web Apps in "Vue.js or React.js ecosystem for Frontend Development" and "Node.js ecosystem for Backend Development" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB)" to choose from for Data Persistence. When it comes to Web API's, I can work with both REST and GraphQL.
+Hello there, this is Harry Manchanda, a **Full-stack Web Developer** who can build you Full-stack Web Apps in "Vue.js or React.js ecosystem for Frontend Development" and "Node.js ecosystem for Backend Development" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB)" to choose from for Data Persistence. I can work with both GraphQL and REST API's.
 
 **I am a Postgraduate in _Masters of Computer Applications_.**
 
