@@ -16,7 +16,7 @@ I am a _Javascript & TypeScript_ Developer and my current full stack for buildin
 
 <h2>✈️ Harry's Github Stats:</h2>
 
-![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&theme=flag-india&count_private=true&include_all_commits=false&show_icons=true&hide=contribs,issues,prs&line_height=25)
+![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&theme=flag-india&count_private=true&include_all_commits=true&show_icons=true&line_height=25&hide=prs,issues,contribs)
 
 Note: The Grading System used in the above Github Stats Tool is the [Japanese Grading System](https://en.wikipedia.org/wiki/Academic_grading_in_Japan) where `S > A`.
 
