@@ -23,11 +23,6 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 > shū (秀) - Exemplary, excellent - S (90–100%) \
 > yū (優) - Very good - A (80–89%)
 
-<h2>👨‍💻 Harry's Social Profiles:</h2>
-
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HarmanManchanda)
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harrymanchanda)
-
 <h2>👨‍💻 Harry's Most Used Languages:</h2>
 
 ![Harry Manchanda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&hide=makefile,objective-c,c,c%2B%2B,ruby,shell&layout=compact&langs_count=7)
@@ -95,3 +90,8 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://www.realwire.com/writeitfiles/studio-3t-logo-green-on-white.jpg" /></code>
 <code><img alt="Github" title="Github" height="50" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" /></code>
 <code><img alt="Gitlab" title="Gitlab" height="50" src="https://about.gitlab.com/images/press/press-kit-icon.svg" /></code>
+
+<h2>👨‍💻 Harry's Social Profiles:</h2>
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HarmanManchanda)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harrymanchanda)
