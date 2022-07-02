@@ -25,7 +25,7 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 
 <h2>👨‍💻 Harry's Most Used Languages:</h2>
 
-![Harry Manchanda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&hide=makefile,objective-c,c,c%2B%2B,ruby,shell&layout=compact&langs_count=7)
+![Harry Manchanda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&hide=makefile,objective-c,c,c%2B%2B,shell&layout=compact&langs_count=8)
 
 <h2>🏄‍♂️ Harry's Tech Toolbox 🧰:</h2>
 
