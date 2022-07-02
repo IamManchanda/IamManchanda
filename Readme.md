@@ -18,6 +18,8 @@ I am a _Javascript & TypeScript_ Developer and my current full stack for buildin
 
 ![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&theme=flag-india&count_private=true&include_all_commits=true&show_icons=true&line_height=25&hide=prs,issues,contribs)
 
+![Harry Manchanda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&hide=makefile,objective-c,c,c%2B%2B,ruby,shell&layout=compact&langs_count=7)
+
 Note: The Grading System used in the above Github Stats Tool is the [Japanese Grading System](https://en.wikipedia.org/wiki/Academic_grading_in_Japan) where `S > A`.
 
 > shū (秀) - Exemplary, excellent - S (90–100%) \
