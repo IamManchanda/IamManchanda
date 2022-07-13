@@ -23,10 +23,6 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 > shū (秀) - Exemplary, excellent - S (90–100%) \
 > yū (優) - Very good - A (80–89%)
 
-<h2>👨‍💻 Harry's Most Used Languages:</h2>
-
-![Harry Manchanda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamManchanda&theme=flag-india&hide=makefile,objective-c,c,c%2B%2B,shell&layout=compact&langs_count=8)
-
 <h2>🏄‍♂️ Harry's Tech Toolbox 🧰:</h2>
 
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" /></code>
