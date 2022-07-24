@@ -28,7 +28,8 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" /></code>
 <code><img alt="CSS 3" title="CSS 3" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" /></code>
 <code><img alt="Sass/SCSS" title="Sass/SCSS" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" /></code>
-<code><img alt="JavaScript" title="JavaScript" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541552.png" /></code>
+<code><img alt="Java" title="Java" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" /></code>
+<code><img alt="TypeScript" title="TypeScript" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541500.png" /></code>
 <code><img alt="TypeScript" title="TypeScript" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541500.png" /></code>
 <code><img alt="JSX" title="JSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541490.png" /></code>
 <code><img alt="TSX" title="TSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541501.png" /></code>
