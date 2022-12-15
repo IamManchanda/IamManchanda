@@ -6,7 +6,7 @@
 
 ### It's very nice to meet you 🙌
 
-Hello there, this is Harry Manchanda, a **Full-stack Web Developer** who can build you Full-stack Web Apps in "React.js or Vue.js ecosystem for Frontend Development" and "Node.js ecosystem for Backend Development" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB)" to choose from for Data Persistence. I can work with both GraphQL and REST API's.
+Hello there, this is Harman Singh Manchanda (aka Harry Manchanda), a 29 years old **Full-stack Web Developer** who can build you Full-stack Web Apps in "React.js or Vue.js ecosystem for Frontend Development" and "Node.js ecosystem for Backend Development" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, Amazon DynamoDB)" to choose from for Data Persistence. I can work with both GraphQL and REST API's.
 
 **I am a Post-Graduate in _Masters of Computer Applications_.** I am professionally a **Javascript & TypeScript** Developer and my current full stack for building Web Apps revolves around that. I also know **Java & Python** academically.
 
