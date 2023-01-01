@@ -60,6 +60,7 @@ Note: The Grading System used in the above Github Stats Tool is the [Japanese Gr
 <code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" /></code>
 <code><img alt="TypeGraphQL" title="TypeGraphQL" height="50" src="https://typegraphql.com/img/logo.png" /></code>
 <code><img alt="Nest.js" title="Nest.js" height="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /></code>
+<code><img alt="Spring Boot" title="Spring Boot" height="50" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" /></code>
 <code><img alt="Prisma" title="Prisma" height="50" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" /></code>
 <code><img alt="Apollo GraphQL" title="Apollo GraphQL" height="50" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" /></code>
 <code><img alt="URQL" title="URQL" height="50" src="https://svgshare.com/i/QwM.svg" /></code>
