@@ -12,10 +12,6 @@ Hello there, this is Harman Singh Manchanda (aka Harry Manchanda), a 29 years ol
 
 You can learn more about me and my Skills, Education, Work Experience, Professional Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
-<h2>✈️ Harry's Github Stats:</h2>
-
-![Harry Manchanda's Github Stats](https://github-readme-stats.vercel.app/api?username=IamManchanda&theme=flag-india&count_private=true&show_icons=true&line_height=25&hide=prs,issues,contribs)
-
 <h2>🏄‍♂️ Harry's Tech Toolbox 🧰:</h2>
 
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" /></code>
