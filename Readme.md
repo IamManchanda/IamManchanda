@@ -76,3 +76,5 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 <code><img alt="Studio 3T" title="Studio 3T" height="50" src="https://www.realwire.com/writeitfiles/studio-3t-logo-green-on-white.jpg" /></code>
 <code><img alt="Github" title="Github" height="50" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" /></code>
 <code><img alt="Gitlab" title="Gitlab" height="50" src="https://about.gitlab.com/images/press/press-kit-icon.svg" /></code>
+<code><img alt="Stripe" title="Stripe" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" /></code>
+
