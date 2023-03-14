@@ -19,10 +19,10 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 <code><img alt="Sass/SCSS" title="Sass/SCSS" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" /></code>
 <code><img alt="JavaScript" title="JavaScript" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541552.png" /></code>
 <code><img alt="TypeScript" title="TypeScript" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541500.png" /></code>
+<code><img alt="Java" title="Java" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" /></code>
 <code><img alt="JSX" title="JSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541490.png" /></code>
 <code><img alt="TSX" title="TSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541501.png" /></code>
 <code><img alt="CSS-in-JS" title="CSS-in-JS" height="50" src="https://www.drupal.org/files/project-images/minify-css-javascript.png" /></code>
-<code><img alt="Java" title="Java" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" /></code>
 <code><img alt="Python" title="Python" height="50" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" /></code>
 <code><img alt="JSON" title="JSON" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541488.png" /></code>
 <code><img alt="YAML" title="YAML" height="50" src="https://cdn-icons-png.flaticon.com/512/187/187689.png" /></code>
