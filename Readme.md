@@ -34,7 +34,7 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 <code><img alt="Bootstrap" title="Bootstrap" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></code>
 <code><img alt="Semantic UI" title="Semantic UI" height="50" src="https://cdn.worldvectorlogo.com/logos/semantic-ui.svg" /></code>
 <code><img alt="ANT Design" title="ANT Design" height="50" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" /></code>
-<code><img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.0e3166482a69f6e0f869a048cf5c06bb695e2577.svg" /></code>
+<code><img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" /></code>
 <code><img alt="Chakra UI" title="Chakra UI" height="50" src="https://img.stackshare.io/service/12421/rzylUjaf_400x400.jpg" /></code>
 <code><img alt="Styled Components" title="Styled Components" height="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.svg" /></code>
 <code><img alt="Vue.js" title="Vue.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></code>
