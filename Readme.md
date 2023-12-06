@@ -10,7 +10,7 @@ Hello there, this is Harman Singh Manchanda (aka Harry Manchanda), a 29 years ol
 
 **I am a Post-Graduate in _Masters of Computer Applications_.** I am a **Full Stack Javascript, TypeScript & Java Developer**, and my current Full Stack for building Web Apps & API's revolves around that. I am also working on adding **Python Development** in my Professional Toolset.
 
-You can learn more about me and my Skills, Education, Work Experience, Professional Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
+You can learn more about me and my Skills, Education, Work Experience, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
 <h2>🏄‍♂️ Harry's Tech Toolbox 🧰:</h2>
 
