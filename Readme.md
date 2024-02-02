@@ -20,6 +20,7 @@ You can learn more about me and my Skills, Education, Work Experience, etc from 
 <code><img alt="JavaScript" title="JavaScript" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541552.png" /></code>
 <code><img alt="TypeScript" title="TypeScript" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541500.png" /></code>
 <code><img alt="Java" title="Java" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" /></code>
+<code><img alt="Spring" title="Spring" height="50" src="https://spring.io/img/spring.svg" /></code>
 <code><img alt="JSX" title="JSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541490.png" /></code>
 <code><img alt="TSX" title="TSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541501.png" /></code>
 <code><img alt="CSS-in-JS" title="CSS-in-JS" height="50" src="https://www.drupal.org/files/project-images/minify-css-javascript.png" /></code>
@@ -51,7 +52,6 @@ You can learn more about me and my Skills, Education, Work Experience, etc from 
 <code><img alt="GraphQL" title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" /></code>
 <code><img alt="TypeGraphQL" title="TypeGraphQL" height="50" src="https://typegraphql.com/img/logo.png" /></code>
 <code><img alt="Nest.js" title="Nest.js" height="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /></code>
-<code><img alt="Spring" title="Spring" height="50" src="https://spring.io/img/spring.svg" /></code>
 <code><img alt="Prisma" title="Prisma" height="50" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" /></code>
 <code><img alt="Apollo GraphQL" title="Apollo GraphQL" height="50" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" /></code>
 <code><img alt="URQL" title="URQL" height="50" src="https://svgshare.com/i/QwM.svg" /></code>
