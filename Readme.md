@@ -10,7 +10,7 @@ Hello there, this is Harman Singh Manchanda (aka Harry Manchanda), a 29 years ol
 
 I am a **Full Stack Javascript, TypeScript, & Java Developer**, and my current Full Stack for building Web Apps, & API's revolves around that. I hold a **Master's Degree in _Computer Applications_**, and is a **Certified Amazon AWS Developer Associate**.
 
-You can learn more about me and my Skills, Education, Work Experience, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
+You can learn more about me and my Skills, Work Experience, Education, Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
 <h2>🏄‍♂️ Harry's Tech Toolbox 🧰:</h2>
 
