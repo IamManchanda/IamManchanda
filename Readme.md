@@ -12,6 +12,8 @@ I am a **Full Stack Java, Javascript, TypeScript, & Ruby Developer**, and my cur
 
 You can learn more about me and my Skills, Work Experience, Education, Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
+<details>
+  <summary>Tech Stack</summary>
 <h2>🏄‍♂️ Harry's Tech Toolbox 🧰:</h2>
 
 <code><img alt="HTML 5" title="HTML 5" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" /></code>
@@ -77,4 +79,6 @@ You can learn more about me and my Skills, Work Experience, Education, Recommend
 <code><img alt="Github" title="Github" height="50" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" /></code>
 <code><img alt="Gitlab" title="Gitlab" height="50" src="https://about.gitlab.com/images/press/press-kit-icon.svg" /></code>
 <code><img alt="Stripe" title="Stripe" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" /></code>
+
+</details>
 
