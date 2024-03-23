@@ -26,6 +26,8 @@ You can learn more about me and my Skills, Work Experience, Education, Recommend
   <code><img alt="JSX" title="JSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541490.png" /></code>
   <code><img alt="TSX" title="TSX" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541501.png" /></code>
   <code><img alt="CSS-in-JS" title="CSS-in-JS" height="50" src="https://www.drupal.org/files/project-images/minify-css-javascript.png" /></code>
+  <code><img alt="Ruby" title="Ruby" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" /></code>
+  <code><img alt="Ruby on Rails" title="Ruby on Rails" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" /></code>
   <code><img alt="Python" title="Python" height="50" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" /></code>
   <code><img alt="JSON" title="JSON" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541488.png" /></code>
   <code><img alt="YAML" title="YAML" height="50" src="https://cdn-icons-png.flaticon.com/512/187/187689.png" /></code>
