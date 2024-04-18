@@ -8,7 +8,7 @@
 
 Hello there, this is Harman Singh Manchanda (aka Harry Manchanda), a **Full-stack Developer** who can build you Full-stack Web and Mobile Apps in "React.js, React Native, Next.js or Vue.js ecosystem for Frontend Development" and "Node.js or Java Spring or Ruby on Rails ecosystem for Backend Development" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, DynamoDB, etc)" to choose from for Data Persistence. I can work with both GraphQL and REST API's.
 
-I am a **Full Stack Java, Javascript, and TypeScript Developer**, and my current stack for building Web Apps, Mobile Apps & API's revolves around that. I hold a **Master's Degree in _Computer Applications_**, and is an **Amazon Web Services (AWS) Certified Developer Associate**. I also know Ruby.
+I am a **Full Stack Java, Javascript, and TypeScript Developer**, and my stack for building Web Apps, Mobile Apps & API's revolves around that. I hold a **Master's Degree in _Computer Applications_**, and is an **Amazon Web Services (AWS) Certified Developer Associate**. I also know Ruby.
 
 You can learn more about me and my Skills, Work Experience, Education, Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
