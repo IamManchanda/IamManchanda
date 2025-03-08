@@ -10,7 +10,9 @@ Hello there, this is Harman Singh Manchanda (aka Harry Manchanda), a **Full-stac
 
 I have a **Master's Degree** in **Computer Applications** and is a **Javascript**, **TypeScript**, and **Java** Developer and my current **Full Stack Tech-Stack** revolves around that for building **Web Apps** & **APIs**. 
 
-I hold a **Master's Degree in _Computer Applications_**, and is an **Amazon Web Services (AWS) Certified Developer Associate**. I also know Python & Ruby.
+I hold a **Master's Degree in _Computer Applications_**, and is an **Amazon Web Services (AWS) Certified Developer Associate**. 
+
+I also know Python & Ruby.
 
 You can learn more about me and my Skills, Work Experience, Education, Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/harrymanchanda/).
 
