@@ -6,7 +6,7 @@
 
 ### It's very nice to meet you! 🙌
 
-Hello there, this is Harman Singh Manchanda (aka Harman Manchanda / Harry Manchanda), a **Full-stack Developer** who can build you Full-stack Web and Mobile Apps in "React.js, React Native, Next.js or Vue.js ecosystem for Frontend Development" and "Node.js or Java Spring ecosystem for Backend Development" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, DynamoDB, etc)" to choose from for Data Persistence. I can work with both GraphQL and REST API's.
+Hello there, this is Harman Singh Manchanda (aka, "Harman Manchanda" or "Harry Manchanda"), a **Full-stack Developer** who can build you Full-stack Web and Mobile Apps in "React.js, React Native, Next.js or Vue.js ecosystem for Frontend Development" and "Node.js or Java Spring ecosystem for Backend Development" along with "Multiple Database options (PostgreSQL, MySQL, MongoDB, DynamoDB, etc)" to choose from for Data Persistence. I can work with both GraphQL and REST API's.
 
 I have a **Master's Degree** in **Computer Applications** and is a **Javascript**, **TypeScript**, and **Java** Developer and my current **Full Stack Tech-Stack** revolves around that for building **Web Apps** & **APIs**. 
 
